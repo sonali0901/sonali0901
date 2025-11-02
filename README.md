@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h2>
 
 <h3> About me </h3>
-I started my career at HSBC as a Software Engineer in the Insurance domain after completing my undergrad in Computer Science, where I gained experience in backend development and project management. I kept information and people organized, translated needs between different groups, did research and designed solutions to make sure that the result met those needs. I then worked at Delphix as a Senior Software Engineer, learning to thrive in a tech-heavy, fast-paced, customer-centric product environment.
+I started my career at HSBC as a Software Engineer in the Insurance domain after completing my undergrad in Computer Science, where I gained experience in backend development and project management. I kept information and people organized, translated business needs between different groups, did research and designed solutions to make sure that the result met those needs. I then worked at Delphix as a Senior Software Engineer, learning to thrive in a tech-heavy, fast-paced, customer-centric product environment.
 
 On deciding to pivot my career toward Analytics and Project Management, I wanted a role where business and technology intersect in my day-to-day work. Currently, I am a Data Strategy and Operations Intern at GSK while pursuing my Master’s in Business Analytics at Saint Peter’s University, New Jersey.
 
