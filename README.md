@@ -26,6 +26,10 @@ On deciding to pivot my career toward Analytics and Project Management, I wanted
 
 I’ve worn multiple hats in the 5+ years of my professional journey and embraced the challenges of every role. I love taking on new challenges and aspire to become a future leader at the intersection of technology and business.
 
+Open source contributions: 
+- Interned with Wikimedia and authored this [page](https://www.mediawiki.org/wiki/Citoid/Creating_Zotero_translators), contributing to the Open Source space. </li>
+- Past [Google Code-In](https://codein.withgoogle.com/archive/) mentor with Zulip </li>
+
 <i> Here's to the ones who dream, foolish as they may seem.</i>
 <h3>
  🛠️ My toolkit
